@@ -1,0 +1,26 @@
+Token Vesting Schedule Contract
+Description
+This project implements a simple token vesting schedule smart contract on the Aptos blockchain. The contract enables an initializer to lock tokens under a vesting schedule and allows a designated beneficiary to claim tokens gradually based on predefined vesting parameters such as start time, cliff period, and overall duration.
+
+Vision
+Our vision is to offer a secure and transparent method for managing token distribution. This contract empowers project creators by ensuring that tokens are released in a controlled manner, mitigating risks associated with immediate large-scale token distributions and fostering trust with token beneficiaries.
+
+Future Scope
+Multi-Beneficiary Support: Extend functionality to allow multiple beneficiaries and more complex vesting arrangements.
+
+Dynamic Vesting: Introduce adjustable vesting schedules that can respond to market conditions or project milestones.
+
+User Interface Integration: Develop a user-friendly dashboard for monitoring vesting schedules and claiming tokens.
+
+Extended Token Compatibility: Adapt the contract to support additional token types and standards.
+
+Enhanced Security: Implement further security audits and integrate community feedback to ensure robustness.
+
+Contact Details
+For questions, contributions, or further information, please reach out:
+
+Email: yourname@example.com
+
+GitHub: your-github-username
+
+Twitter: @yourtwitterhandle
